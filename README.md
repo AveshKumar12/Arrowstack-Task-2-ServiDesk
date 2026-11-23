@@ -81,7 +81,7 @@ ServiDesk/
 ### 1. Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/AveshKumar12/Arrowstack-Task-2-ServiDesk
 cd Arrowstack-Task-2-ServiDesk
 ```
 
